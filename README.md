@@ -19,6 +19,6 @@ I am currently studying for my MSc in cybersecurity in EPFL and ETH<br>I have pr
 
 
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AleMerRom)](https://wakatime.com/@AleMerRom)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
