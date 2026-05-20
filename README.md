@@ -16,9 +16,4 @@ I am currently studying for my MSc in cybersecurity in EPFL and ETH<br>I have pr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AleMerRom&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AleMerRom)](https://wakatime.com/@AleMerRom)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
